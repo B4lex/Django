@@ -25,7 +25,7 @@ SECRET_KEY = '42c*$z^u4y#h-w3rr=kh4adw5m=m*z@%_j+u=0nx!a$sf!grho'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'http://b4lex.pythonanywhere.com/']
 
 
 # Application definition
